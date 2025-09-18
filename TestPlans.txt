@@ -3,7 +3,7 @@
 
 ## Executive Summary
 
-This test plan outlines a comprehensive testing approach for the iOS search feature, covering unit tests, UI tests, integration tests, and performance validation. The strategy follows Apple's testing best practices and demonstrates cross-platform automation capabilities suitable for Apple Search products.
+This test plan outlines a comprehensive testing approach for the iOS search feature, covering unit tests, UI tests, integration tests, and performance validation. 
 
 ## Testing Approach
 
